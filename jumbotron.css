@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+@media screen{
+.jumbotron-df {
+    background-color: #FFFFFF;
+    background-position: 0% 0%;
+    background-image: url(images/olas.png);
+}
+
+}

@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.img-media {
+    background-image: url(../images/_MG_2478.JPG);
+    background-position: center center;
+    background-size: cover;
+}
+
+@media screen{
+.bg-colorbarra  {
+    background-color: #0E68A2;
+    color: #0E68A2;
+}
+.bg-letras {
+    color: #0E68A2;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: left;
+}
+}

@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+@media screen{
+.bgletras-barra  {
+    color: #E7E7E7;
+    text-shadow: 0px 0px #FFFFFF;
+    /* [disabled]text-align: left; */
+    background-color: #AF1A1C;
+	
+}
+
+.outfit-<uniquifier> {
+  font-family: "Outfit", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
